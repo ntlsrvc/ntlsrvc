@@ -18,7 +18,7 @@
 <div  align="center">
 <div style="display: inline_block"><br>
        
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
         <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,php,ts" />
     </a></a>
