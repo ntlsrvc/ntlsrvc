@@ -15,7 +15,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&pause=1000&repeat=false&size=35&center=true&vCenter=true&width=1000&lines=Skills)](https://git.io/typing-svg)
-<div  align="center"> 
+<div  align="center">
 <div style="display: inline_block"><br>
        
   <div style="display: inline_block"><br>
