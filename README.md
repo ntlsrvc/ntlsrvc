@@ -23,5 +23,6 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts">
     </a></a>
 </div>
+
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
