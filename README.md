@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+My+Name+is+Natalia;Im+27+years+old;Im+from+Brazil;I+aspire+to+work+as+Software+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&duration=1&pause=1&color=FFFF00&center=true&multiline=true&repeat=false&random=false&width=435&lines=Hello%2C+My+name+is+Natalia!;Im+27+years+old%2C+Im+from+Brazil;I+aspire+to+work+as+Software+Developer;Welcome+to+my+Profile+%3A))](https://git.io/typing-svg)
+
 <div align="center"> 
   <a href="https://git.io/typing-svg">
     <img src="https://github.com/ntlsrvc/ntlsrvc/assets/73252962/b463f869-39b2-49af-9e1d-791dc3574b62"" style="max-width: 100%;" />
