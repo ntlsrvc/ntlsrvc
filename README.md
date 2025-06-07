@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api?username=ntlsrvc&show_icons=true&hide_border=true&title_color=FFFF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1115" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api?username=ntlsrvc&show_icons=true&hide_border=true&title_color=FFFF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1114" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api/top-langs/?username=ntlsrvc&layout=compact&hide_border=true&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1114" />
 </div><br><br>
 
