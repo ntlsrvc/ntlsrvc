@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/ntlsrvc/ntlsrvc/assets/73252962/b463f869-39b2-49af-9e1d-791dc3574b62"" style="max-width: 100%;" />
+    <img src="https://github.com/user-attachments/assets/3db5782d-6148-4ff5-a747-9f7c50fa1044" "style="max-width: 100%;" />
   </a>
 </div>
 
