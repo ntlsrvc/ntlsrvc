@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api?username=ntlsrvc&show_icons=true&hide_border=true&title_color=FFFF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1114" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api/top-langs/?username=ntlsrvc&layout=compact&hide_border=true&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1114" />
+  <img width="49%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api?username=ntlsrvc&show_icons=true&hide_border=true&title_color=FFFF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1115" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-ntlsrvcs-projects.vercel.app/api/top-langs/?username=ntlsrvc&layout=compact&hide_border=true&title_color=FFFF00&text_color=c9d1d9&bg_color=0d1115" />
 </div><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&pause=1000&repeat=false&size=35&center=true&vCenter=true&width=1000&lines=I+Code+with:)](https://git.io/typing-svg)
