@@ -19,7 +19,7 @@
        
   <div style="display: inline_block">
         <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,tailwind">
     </a></a>
 </div>
     
